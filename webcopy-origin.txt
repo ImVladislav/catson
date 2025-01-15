@@ -1,0 +1,260 @@
+Uri: https://basecatson.com/
+File Name: C:\Downloaded Web Sites\basecatson.com\index.htm
+Content Type: text/html
+
+Uri: https://basecatson.com/css/1.PNG
+File Name: C:\Downloaded Web Sites\basecatson.com\css\1.PNG
+Content Type: image/png
+
+Uri: https://basecatson.com/css/2.PNG
+File Name: C:\Downloaded Web Sites\basecatson.com\css\2.PNG
+Content Type: image/png
+
+Uri: https://basecatson.com/css/3.PNG
+File Name: C:\Downloaded Web Sites\basecatson.com\css\3.PNG
+Content Type: image/png
+
+Uri: https://basecatson.com/css/3memes.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\3memes.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/4.PNG
+File Name: C:\Downloaded Web Sites\basecatson.com\css\4.PNG
+Content Type: image/png
+
+Uri: https://basecatson.com/css/basedaq.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\basedaq.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/cat.jpg
+File Name: C:\Downloaded Web Sites\basecatson.com\css\cat.jpg
+Content Type: image/jpeg
+
+Uri: https://basecatson.com/css/catsonbag.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\catsonbag.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/catsonhood.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\catsonhood.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/catsonmug.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\catsonmug.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/cgecko.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\cgecko.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/dex.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\css\dex.svg
+Content Type: image/svg+xml
+
+Uri: https://basecatson.com/css/eth.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\eth.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/flooz.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\flooz.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/index.js
+File Name: C:\Downloaded Web Sites\basecatson.com\css\index.js
+Content Type: application/x-javascript
+
+Uri: https://basecatson.com/css/left_ice.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\css\left_ice.svg
+Content Type: image/svg+xml
+
+Uri: https://basecatson.com/css/mcap.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\css\mcap.svg
+Content Type: image/svg+xml
+
+Uri: https://basecatson.com/css/metamask.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\css\metamask.svg
+Content Type: image/svg+xml
+
+Uri: https://basecatson.com/css/pepe-halp.webp
+File Name: C:\Downloaded Web Sites\basecatson.com\css\pepe-halp.webp
+Content Type: image/webp
+
+Uri: https://basecatson.com/css/right_ice.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\css\right_ice.svg
+Content Type: image/svg+xml
+
+Uri: https://basecatson.com/css/social3.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\css\social3.svg
+Content Type: image/svg+xml
+
+Uri: https://basecatson.com/css/Sp5.PNG
+File Name: C:\Downloaded Web Sites\basecatson.com\css\Sp5.PNG
+Content Type: image/png
+
+Uri: https://basecatson.com/css/Sp6.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\Sp6.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/Sp7.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\Sp7.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/Sp8.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\Sp8.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/Spr1.PNG
+File Name: C:\Downloaded Web Sites\basecatson.com\css\Spr1.PNG
+Content Type: image/png
+
+Uri: https://basecatson.com/css/storeshirt.png
+File Name: C:\Downloaded Web Sites\basecatson.com\css\storeshirt.png
+Content Type: image/png
+
+Uri: https://basecatson.com/css/style.css
+File Name: C:\Downloaded Web Sites\basecatson.com\css\style.css
+Content Type: text/css
+
+Uri: https://basecatson.com/css/telegram.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\css\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://basecatson.com/css/wallet.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\css\wallet.svg
+Content Type: image/svg+xml
+
+Uri: https://basecatson.com/css/x.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\css\x.svg
+Content Type: image/svg+xml
+
+Uri: https://basecatson.com/fonts/MilkyNice-Clean.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\fonts\MilkyNice-Clean.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://basecatson.com/images/top_about.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\images\top_about.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.css
+File Name: C:\Downloaded Web Sites\basecatson.com\npm\flowbite@2.4.1\dist\flowbite.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.js
+File Name: C:\Downloaded Web Sites\basecatson.com\npm\flowbite@2.4.1\dist\flowbite.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.tailwindcss.com/3.4.16
+File Name: C:\Downloaded Web Sites\basecatson.com\3.4.16
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/font/bootstrap-icons.min.css
+File Name: C:\Downloaded Web Sites\basecatson.com\ajax\libs\bootstrap-icons\1.10.3\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/font/fonts/bootstrap-icons.woff2?24e3eb84d0bcaf83d77f904c78ac1f47
+File Name: C:\Downloaded Web Sites\basecatson.com\ajax\libs\bootstrap-icons\1.10.3\font\fonts\bootstrap-icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/font/fonts/bootstrap-icons.woff?24e3eb84d0bcaf83d77f904c78ac1f47
+File Name: C:\Downloaded Web Sites\basecatson.com\ajax\libs\bootstrap-icons\1.10.3\font\fonts\bootstrap-icons.woff
+Content Type: application/octet-stream
+
+Uri: https://flowbite.s3.amazonaws.com/docs/jumbotron/conference.jpg
+File Name: C:\Downloaded Web Sites\basecatson.com\docs\jumbotron\conference.jpg
+Content Type: image/jpeg
+
+Uri: https://flowbite.s3.amazonaws.com/docs/jumbotron/hero-pattern-dark.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\docs\jumbotron\hero-pattern-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://flowbite.s3.amazonaws.com/docs/jumbotron/hero-pattern.svg
+File Name: C:\Downloaded Web Sites\basecatson.com\docs\jumbotron\hero-pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Downloaded Web Sites\basecatson.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\basecatson.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/aos%403.0.0-beta.6/dist/aos.css
+File Name: C:\Downloaded Web Sites\basecatson.com\aos@3.0.0-beta.6\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos%403.0.0-beta.6/dist/aos.js
+File Name: C:\Downloaded Web Sites\basecatson.com\aos@3.0.0-beta.6\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-5NHYW2T62K
+File Name: C:\Downloaded Web Sites\basecatson.com\gtag\js
+Content Type: application/javascript
+
