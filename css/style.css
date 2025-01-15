@@ -794,7 +794,13 @@ footer .social a:hover{
 }
 
 
+.copy{
+  width: 100% !important;
+}
 
-
-
+@media screen and (min-width: 765px) {
+  .copy{
+    width: 714px !important;
+  }
+}
 
