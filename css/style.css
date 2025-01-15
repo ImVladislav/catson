@@ -565,43 +565,44 @@ footer .social a:hover{
 .right_island {
   position: absolute;
   bottom: 114px;
-  right: 1px;
+  right: -356px;
+  width: 100%;
 
 }
 
 .left_island {
-  width: 55%;
-  top: 200px;
+  width: 100%;
+  top: 226px;
   position: absolute;
 
 }
 
-@media screen and (max-width: 1600px) {
+.left-cat{
+  top: 312px;
+  position: absolute;
+  width: 108px;
+  left: 20px;
+  
+}
+
+.right-cat{
+  top: 258px;
+  position: absolute;
+  width: 159px;
+  left: 116px
+}
+@media screen and (min-width: 1600px) {
   .left_island {
     width: 50%;
   
   }
+  
 }
 
-@media screen and (max-width: 1280px) {
-  .left_island {
-    width: 25%;
-  
-  }
-  .right_island {
-    right: -281px;
-  
-  }
-}
 
-@media screen and (max-width: 620px) {
-  .left_island {
-    width: 35%;
-  
-  }
-}
 
-@media screen and (max-width: 900px) {
+
+@media screen and (min-width: 900px) {
   .left_island {
     width: 40%;
   
@@ -610,7 +611,7 @@ footer .social a:hover{
     right: -205;
   
   }
- 
+
   }
 
   @media screen and (min-width: 450px) {
@@ -618,11 +619,117 @@ footer .social a:hover{
       width: 50%;
     
     }
-  }
+    .right_island {
+      right: -29%;
+      width: 100%;
+    }
 
-  @media screen and (min-width: 360px) {
-    .left_island {
-      width: 50%;
-      top: 175px;
+    .left-cat{
+      top: 312px;
+      position: absolute;
+      width: 108px;
+      left: 20px;
+      
+    }
+    
+    .right-cat{
+      top: 258px;
+      position: absolute;
+      width: 185px;
+      left: 271px;
+    }
+
+  }
+  @media screen and (min-width: 540px) {
+
+    .right_island {
+      right: -44%;
+      bottom: -7px;
+    }
+    .right-cat {
+      top: 295px;
+      position: absolute;
+      width: 243px;
+      left: 339px;
     }
   }
+
+  @media screen and (min-width: 620px) {
+    .left_island {
+      width: 35%;
+    
+    }
+    .right-cat {
+      top: 261px;
+      position: absolute;
+      width: 243px;
+      left: 440px;
+  }
+}
+
+@media screen and (min-width: 800px) {
+
+  .right-cat {
+    top: 194px;
+    position: absolute;
+    width: 300px;
+    left: 585px;
+}
+}
+
+@media screen and (min-width: 1024px) {
+
+  .right-cat {
+    top: 194px;
+    position: absolute;
+    width: 300px;
+    left: 73%;
+}
+}
+
+
+
+@media screen and (min-width: 1280px) {
+  .left_island {
+    width: 25%;
+    top: 343px;  
+  }
+  .right_island {
+    right: -356px;
+    width: 958px;
+  }
+  .left-cat{
+    top: 500px;
+  }
+  .right-cat {
+    top: 420px;
+    position: absolute;
+    width: 300px;
+    left: 73%;
+}
+
+}
+
+@media screen and (min-width: 1560px) {
+
+  .right-cat {
+
+    left: 83%;
+}
+
+}
+
+@media screen and (min-width: 2180px) {
+
+  .right-cat {
+
+    left: 90%;
+}
+.left-cat{
+  top: 516px;
+  width: 260px;
+
+}
+}
+
+
