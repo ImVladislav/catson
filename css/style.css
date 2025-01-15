@@ -775,7 +775,23 @@ footer .social a:hover{
   z-index: 0;
 }
 
-
+.dance_cat {
+  position: absolute;
+  bottom: -60px;
+  left: -18%;
+  width: 215px;
+}
+@media screen and (min-width: 400px) {
+  .dance_cat {
+    /* position: absolute; */
+    /* bottom: -60px; */
+    left: 0%;
+    /* width: 215px; */
+  }
+}
+@media screen and (min-width: 768px) {
+  
+}
 
 
 
